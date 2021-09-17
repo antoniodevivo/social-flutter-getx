@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "fullname": "Elon Musk",
+    "pic": "assets/images/elon-musk-profile-pic.jpg"
+  },
+  {
+    "id": 2,
+    "fullname": "Bill Gates",
+    "pic": "assets/images/bill-gates-profile-pic.webp"
+  },
+  {
+    "id": 3,
+    "fullname": "Angela Merkel",
+    "pic": "assets/images/angela-merkel-profile-pic.jpg"
+  },
+  {
+    "id": 4,
+    "fullname": "Michelle Obama",
+    "pic": "assets/images/michelle-obama-profile-pic.webp"
+  }
+]
